@@ -1,0 +1,23 @@
+{
+  "name": "homework-1",
+  "version": "1.0.0",
+  "description": "first homework of react lecture",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pelinvarol/ReactFirstHW.git"
+  },
+  "author": "Pelin Sena Varol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pelinvarol/ReactFirstHW/issues"
+  },
+  "homepage": "https://github.com/pelinvarol/ReactFirstHW#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
